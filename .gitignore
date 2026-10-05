@@ -1,0 +1,16 @@
+# Executable
+kalkulator
+*.exe
+*.out
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Build directory
+build/
+bin/
+
+# VS Code (opsional, tergantung preferensi)
+.vscode/
