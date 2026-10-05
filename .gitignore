@@ -11,6 +11,3 @@ a.out
 # Build directory
 build/
 bin/
-
-# VS Code (opsional, tergantung preferensi)
-.vscode/
